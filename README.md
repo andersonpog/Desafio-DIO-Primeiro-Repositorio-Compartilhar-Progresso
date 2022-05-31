@@ -9,6 +9,6 @@ Repositório para compartilhar o progresso nos Bootcamps DIO
 
 [GFT Quality Assurance 1](https://web.dio.me/track/gft-quality-assurance-1) : [Certificado](https://www.dio.me/certificate/CCA10D24/share) 
 
-<img src="https://hermes.digitalinnovation.one/tracks/c157ff82-82fa-4ede-a5e0-56d1b41c385e.png" alt="drawing" width="200"/>
+<img src="https://hermes.digitalinnovation.one/tracks/6e1f59b9-2207-40b8-8cd4-feef0e668832.png" alt="drawing" width="200"/>
 
-[Carrefour Web Developer](https://web.dio.me/track/carrefour-web-developer) : Em progresso
+[GFT Start #5 Java](https://web.dio.me/track/gft-start-5-java) : [Certificado](https://www.dio.me/certificate/F6C86CC2/share)
